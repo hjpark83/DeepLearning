@@ -6,7 +6,7 @@
 
 > **Logistic Regression vs Deep Neural Network**
 
-![img](Assignment1\Img\chest-x.jpg)
+![img](https://github.com/hjpark83/DeepLearning/blob/main/Assignment1/Img/chest-x.jpg)
 
 #### 1. Dataset : [chest-xray](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
@@ -18,4 +18,4 @@
 
 |Iter 2|Iter 10|Iter 20|
 |:--:|:--:|:--:|
-|![2](Assignment1\Img\classification_results_comparison_iter_2.png)|![10](Assignment1\Img\classification_results_comparison_iter_10.png)|![20](Assignment1\Img\classification_results_comparison_iter_20.png)|
+|![2](https://github.com/hjpark83/DeepLearning/blob/main/Assignment1/Img/classification_results_comparison_iter_2.png)|![10](https://github.com/hjpark83/DeepLearning/blob/main/Assignment1/Img/classification_results_comparison_iter_10.png)|![20](https://github.com/hjpark83/DeepLearning/blob/main/Assignment1/Img/classification_results_comparison_iter_20.png)|
